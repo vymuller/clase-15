@@ -50,7 +50,7 @@ a:hover {
 }
 
 a:hover, a:focus {
-  color: #b8a07e;
+  color: #627E4D;
   text-decoration: underline;
 }
 
@@ -76,12 +76,12 @@ p {
 }
 
 ::-moz-selection {
-  background: #b8a07e;
+  background: #627E4D;
   color: #fff;
 }
 
 ::selection {
-  background: #b8a07e;
+  background: #627E4D;
   color: #fff;
 }
 
@@ -150,7 +150,7 @@ p {
 }
 
 .hvr-shutter-in-horizontal:hover {
-  background: #b8a07e;
+  background: #627E4D;
 }
 
 .mb-30 {
